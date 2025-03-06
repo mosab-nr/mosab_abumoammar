@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395304097708",
+    "project_id": "mosab-abumoammar-f33e0",
+    "storage_bucket": "mosab-abumoammar-f33e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395304097708:android:f3d1b5b291cb1fba924c09",
+        "android_client_info": {
+          "package_name": "com.mosababumoammar.mosab_abumoammar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqpxK3n5RMYZlFutEnZQd6xOAA9KtNVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mosab-abumoammar-f33e0",
+          "appId": "1:395304097708:android:f3d1b5b291cb1fba924c09",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mosab-abumoammar-f33e0",
+          "configurations": {
+            "android": "1:395304097708:android:f3d1b5b291cb1fba924c09",
+            "ios": "1:395304097708:ios:da9ece2d8ac2d35d924c09",
+            "web": "1:395304097708:web:8ee0b4c1bd9f7739924c09"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
