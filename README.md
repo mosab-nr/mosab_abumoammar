@@ -1,16 +1,24 @@
-# mosab_abumoammar
+# Mosab AbuMoammar Portfolio
 
-A portfolio.
+This is a portfolio project for Mosab AbuMoammar, a Flutter Developer. The project showcases various sections including an introduction, about me, skills, and contact information.
+
+## Technologies Used
+
+- **Languages**: Dart
+- **Frameworks**: Flutter
+- **Build Tools**: Gradle, Pub
+- **Firebase**: Used for backend services
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Android Studio or any preferred IDE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/mosab-nr/portfolio.git
