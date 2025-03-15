@@ -16,9 +16,3 @@ This is a portfolio project for Mosab AbuMoammar, a Flutter Developer. The proje
 - Flutter SDK
 - Dart SDK
 - Android Studio or any preferred IDE
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/mosab-nr/portfolio.git
